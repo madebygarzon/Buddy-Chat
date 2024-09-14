@@ -94,4 +94,3 @@ Once the plugin is installed and configured, you can integrate the "Try Me" butt
 
 ---
 
-This is the basic functionality and installation guide for the **AvatarBuddy Redirect** plugin. If you have further questions or issues, feel free to contact your administrator or AvatarBuddy support.
